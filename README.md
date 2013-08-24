@@ -19,10 +19,10 @@ Known Issues:
 -GameCenter needs more testing.
 
 
-Code Availability/ Liscence
-===========================
+Code Availability and Liscence
+==============================
 
-I'm making this code available to the public under a public domain liscence. All that I ask is that if you
+I am making this code available to the public under a public domain liscence. All that I ask is that if you
 choose to use it, copy it, or if you helps you out in any way, please consider dropping me a line at:
 
 markbellottapps@gmail.com
