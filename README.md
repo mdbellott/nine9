@@ -10,12 +10,12 @@ App store Link: https://itunes.apple.com/us/app/nine-9/id542214163?ls=1&mt=8
 Some Details
 =============
 
-This version of the code is a currently unreleased version, in which the code has been updated to take
+This version of the code is currently unreleased, in which the app has been updated to take
 advanage of Cocos2d v2.0 and above, along with enabling ARC. There remain some changes that still need 
 to be made to be ready for iOS 7.
 
 Known Issues:
--In App Purchase (Ad Remover) seem to not be working correctly after the update to Cocos2D v2.x
+-In App Purchase (Ad Remover) seems to not be working correctly after the update to Cocos2D v2.x
 -GameCenter needs more testing.
 
 
