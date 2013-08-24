@@ -1,7 +1,7 @@
 nine 9
 =====
 
-This is the code for my first game, and my first app to be published on the iOS App Store.
+This is the code for my first app to be published on the iOS App Store.
 
 Nine 9 is a simple number-slider game, with multiple puzzle sizes and modes. 
 
