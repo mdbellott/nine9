@@ -17,7 +17,6 @@ to be made to be ready for iOS 7.
 Known Issues:
 
 -In App Purchase (Ad Remover) seems to not be working correctly after the update to Cocos2D v2.x
-on devices running iOS 7.
 
 -GameCenter needs more testing.
 
