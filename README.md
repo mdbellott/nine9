@@ -10,8 +10,8 @@ App Store Link: https://itunes.apple.com/us/app/nine-9/id542214163?ls=1&mt=8
 Some Details
 =============
 
-This version of the code is currently unreleased, in which the app has been updated to take
-advanage of Cocos2d v2.0 and above, along with enabling ARC. There remain some changes that still need 
+This code is a currently unreleased vesion, in which the app has been updated to take
+advanage of Cocos2d v2.0 and above, and enables ARC. There remain some changes that still need 
 to be made to be ready for iOS 7.
 
 Known Issues:
@@ -21,7 +21,7 @@ Known Issues:
 -GameCenter needs more testing.
 
 
-Code Availability and Liscence
+Availability and Liscence
 ==============================
 
 I am making this code available to the public under a public domain liscence. All that I ask is that if you
