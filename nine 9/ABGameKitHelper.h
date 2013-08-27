@@ -5,6 +5,8 @@
 //  Created by Alexander Blunck on 27.02.12.
 //  Copyright (c) 2012 Ablfx. All rights reserved.
 //
+//  https://github.com/ablfx/ABGameKitHelper
+//
 
 #import <Foundation/Foundation.h>
 #import <GameKit/GameKit.h>
